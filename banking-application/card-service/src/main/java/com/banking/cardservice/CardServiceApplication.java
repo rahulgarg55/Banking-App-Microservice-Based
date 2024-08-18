@@ -1,11 +1,11 @@
-package com.banking.card-serviceservice;
+package com.banking.cardservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CardserviceServiceApplication {
+public class CardServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run(CardserviceServiceApplication.class, args);
+        SpringApplication.run(CardServiceApplication.class, args);
     }
 }

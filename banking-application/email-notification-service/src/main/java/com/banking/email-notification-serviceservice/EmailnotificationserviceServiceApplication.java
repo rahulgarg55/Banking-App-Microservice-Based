@@ -1,11 +1,11 @@
-package com.banking.email-notification-serviceservice;
+package com.banking.emailnotificationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmailnotificationserviceServiceApplication {
+public class EmailNotificationServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run(EmailnotificationserviceServiceApplication.class, args);
+        SpringApplication.run(EmailNotificationServiceApplication.class, args);
     }
 }
