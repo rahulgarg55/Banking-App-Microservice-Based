@@ -1,0 +1,5 @@
+com\banking\userservice\controller\UserController.class
+com\banking\userservice\UserServiceApplication.class
+com\banking\userservice\repository\UserRepository.class
+com\banking\userservice\model\User.class
+com\banking\userservice\service\UserService.class
